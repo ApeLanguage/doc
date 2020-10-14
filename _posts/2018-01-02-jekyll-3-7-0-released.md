@@ -1,12 +1,13 @@
 ---
-title: "Jekyll 3.7.0 Released"
-description: "Jekyll 3.7.0 brings LiveReload, a directory for your collections and much more…"
-date: 2018-01-02 11:21:40 +0100
+title: Jekyll 3.7.0 Released
+description: Jekyll 3.7.0 brings LiveReload, a directory for your collections and
+  much more…
+date: 2018-01-02T11:21:40.000+01:00
 author: DirtyF
 version: 3.7.0
 category: release
----
 
+---
 We're happy to release a new minor for the new year.
 Here are a few of the latest additions from our contributors:
 

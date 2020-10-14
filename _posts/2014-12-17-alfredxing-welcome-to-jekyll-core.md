@@ -1,11 +1,11 @@
 ---
-title: 'Alfred Xing has joined the Jekyll core team'
-date: 2014-12-17 11:16:21 -0800
+title: Alfred Xing has joined the Jekyll core team
+date: 2014-12-17T11:16:21.000-08:00
 author: parkr
 version: alfredxing
-categories: [team]
----
+category: team
 
+---
 We're excited to announce that [@alfredxing][] has joined the @jekyll/core
 team!
 

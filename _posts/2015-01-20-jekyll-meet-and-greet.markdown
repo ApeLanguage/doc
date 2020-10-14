@@ -1,10 +1,10 @@
 ---
-title: "Jekyll Meet & Greet at GitHub HQ"
-date: "2015-01-20 19:23:12 -0800"
+title: Jekyll Meet & Greet at GitHub HQ
+date: 2015-01-20 19:23:12 -0800
 author: parkr
-categories: [meetup]
----
+category: meetup
 
+---
 Hey! Our friends at GitHub have agreed to host a Jekyll meet & greet on
 **February 5, 2015 at 7pm**. The event will be hosted at
 [GitHub's Headquarters](https://goo.gl/maps/Bmy7i)

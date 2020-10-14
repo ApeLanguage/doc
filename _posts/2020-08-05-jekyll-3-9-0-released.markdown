@@ -1,10 +1,10 @@
 ---
-title: 'Jekyll 3.9.0 Released'
+title: Jekyll 3.9.0 Released
 author: parkr
 version: 3.9.0
-categories: [release]
----
+category: release
 
+---
 Jekyll 3.9.0 allows use of kramdown v2, the latest series of kramdown.
 
 If you choose to upgrade, please note that the GitHub-Flavored Markdown
