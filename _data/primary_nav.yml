@@ -4,6 +4,9 @@
 - title: Docs
   link: /docs/
   show_on_mobile: true
+- title: Tutorials
+  link: /tutorials/
+  show_on_mobile: true
 - title: News
   link: /news/
   show_on_mobile: true
