@@ -4,3 +4,4 @@ _site/
 pkg/
 test/
 /.jekyll-cache
+/.sass-cache
