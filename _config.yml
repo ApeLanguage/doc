@@ -1,15 +1,16 @@
 ---
-version: 4.1.1
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
-repository: https://github.com/jekyll/jekyll
-timezone: America/Los_Angeles
+version: 0.0.1.0
+name: APE • Programming Language
+description: Make coding fun again
+url: https://docs.ape-lang.org
+repository: https://github.com/ApeLanguage/docs
+timezone: Europe/Madrid
+locale: en_US
 twitter:
-  username: jekyllrb
+  username: ApeLang
 logo: "/img/logo-2x.png"
-google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+#google_analytics_id: UA-50755011-1
+#google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 collections:
   docs:
     permalink: "/:collection/:path/"
