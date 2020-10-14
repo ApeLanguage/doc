@@ -1,0 +1,32 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  config:
+    required: true
+  default: page
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: permalink
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+pages:
+- _tutorials/index.md
+- pages/404.html
+- pages/index.html
+- pages/jekyllconf.md
+- pages/news.html
+- pages/philosophy.md
+- pages/releases.html
+- pages/team.md

@@ -1,0 +1,30 @@
+---
+label: Tutorial
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: permalink
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: 
+pages:
+- _tutorials/custom-404-page.md
+- _tutorials/video-walkthroughs.md

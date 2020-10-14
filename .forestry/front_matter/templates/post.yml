@@ -1,0 +1,42 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+  default: now
+- type: text
+  name: author
+  label: author
+  config:
+    required: true
+  default: guillermocalvo
+- type: select
+  name: category
+  label: category
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - release
+    - team
+    - community
+    - meetup
+    - blog
+pages:
+- _posts/2013-05-06-jekyll-1-0-0-released.markdown
+- _posts/2014-12-17-alfredxing-welcome-to-jekyll-core.md
+- _posts/2015-01-20-jekyll-meet-and-greet.markdown
+- _posts/2015-02-26-introducing-jekyll-talk.markdown
+- _posts/2018-01-02-jekyll-3-7-0-released.md
+- _posts/2020-08-05-jekyll-3-9-0-released.markdown
