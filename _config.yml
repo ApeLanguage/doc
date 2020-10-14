@@ -67,3 +67,8 @@ exclude:
 - CNAME
 - icomoon-selection.json
 - readme.md
+
+algolia:
+  index_name: 'ape'
+  application_id: '459VXFI4LV'
+  search_only_api_key: 'cf47237aa2a48e07b7222328685e00d6'
