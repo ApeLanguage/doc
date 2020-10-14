@@ -3,7 +3,8 @@ version: 0.0.1.0
 name: APE • Programming Language
 description: Make coding fun again
 url: https://docs.ape-lang.org
-repository: https://github.com/ApeLanguage/docs
+repository: https://github.com/ApeLanguage/doc
+edit_link: https://github.com/ApeLanguage/doc/edit/master/
 timezone: Europe/Madrid
 locale: en_US
 twitter:
